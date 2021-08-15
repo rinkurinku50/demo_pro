@@ -23,9 +23,9 @@ class LoginController extends GetxController {
   GoogleSignIn _googleSignIn = GoogleSignIn();
   
   //for linkedIn
-  final String redirectUrl = 'http://localhost:3000/auth/linkedin/callback';
-  final String clientId = '7868c41ar92t80';
-  final String clientSecret = 'eXtDJcsVbbGcsoEY';
+  final String redirectUrl = '--Redirect-Url';
+  final String clientId = '--Client--ID';
+  final String clientSecret = '--Client--Secret';
   //
 
 
